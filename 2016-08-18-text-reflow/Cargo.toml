@@ -1,0 +1,7 @@
+[package]
+name = "2016-08-18-text-reflow"
+description = "https://www.reddit.com/r/dailyprogrammer/comments/4ybbcz"
+version = "0.1.0"
+authors = ["Martin Thurau <martin.thurau@gmail.com>"]
+
+[dependencies]
